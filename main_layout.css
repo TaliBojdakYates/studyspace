@@ -1,0 +1,69 @@
+/*-------------------Middle of Page-------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+
+
+}
+
+
+
+
+#title {
+  display: 1;
+  font-weight: bold;
+  font-size: 4vw;
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding-top: 2rem;
+
+  
+}
+#search{
+  margin-left: 12rem;
+  margin-right: 12rem;
+  margin-bottom: 5rem;
+}
+
+
+
+.search{
+  background-color: #cc0000;
+  border: none;
+  color: white;
+
+}
+.search:hover{
+  background-color: #fe9900;
+  color:black;
+}
+
+
+/*-----------------------Calendar---------------------------------*/
+
+.calendar{
+  margin: 2rem;
+
+}
+
+
+
+footer{
+  background: rgb(204,0,1);
+
+  color: white;
+}
+
+
+
+.fc-toolbar-chunk button{
+  background-color: #444444 !important;
+}
+
